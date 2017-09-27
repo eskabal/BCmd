@@ -36,7 +36,7 @@ public class Core
       return;
     }
     Player p = event.getPlayer();
-    p.sendTitle(getConfig().getString("UnCommand.linia1").replaceAll("&", "").replaceAll("/command/", cmd), getConfig().getString("UnCommand.linia2").replaceAll("&", ""));
+    p.sendTitle(getConfig().getString("UnCommand.linia1").replaceAll("&", "§").replaceAll("/command/", cmd), getConfig().getString("UnCommand.linia2").replaceAll("&", "§"));
     event.setCancelled(true);
   }
 }
