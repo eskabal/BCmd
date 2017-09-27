@@ -1,0 +1,14 @@
+# # # # # # # # # # # # # # # # # # # # # #
+# WYKONANE PRZEZ TEXTR                    #  
+# WERSJA: 2.                              #
+# PLUGIN PRZEZNACZONY NA WERSJE 1.8       #
+# Prosi³bym o uszanowanie Autora pluginu  #
+# zakaz zmiany  autora/bez [pozwolenia    #                                
+# # # # # # # # # # # # # # # # # # # # # # 
+
+
+#Konfiguracja
+
+UnCommand:
+    linia1: '§7Komenda §6/command/ §7nie istenieje!'
+    linia2: '§7Uzyj komendy §6/pomoc §7aby poznac komendy!'

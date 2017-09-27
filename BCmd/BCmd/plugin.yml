@@ -1,0 +1,4 @@
+name: BCmd
+version: 2.0
+author: textr
+main: net.textr.cmd.Core
